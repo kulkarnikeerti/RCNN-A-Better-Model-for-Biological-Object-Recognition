@@ -41,5 +41,5 @@ McNemars test is used for statistical test. Matrices to the right indicate signi
 ##### H0: No difference detween the models
 ##### H1: Significant difference between the models
 
-![](Images/Hypotheis%20Test.JPG)
+![](Images/Hypothesis%20Test.JPG)
 
