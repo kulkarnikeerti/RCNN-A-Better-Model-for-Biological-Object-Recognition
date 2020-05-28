@@ -19,7 +19,7 @@ Cifar10 Dataset with different variations
 ![](Images/Dataset.JPG)
 
 # Using Code
-Models folder contains the code for both Without Noise and With Noise. In case of With Noise, you need to change the level of the noise (1 or 2) while adding it to the original dataset. And same applies for the names while saving model weights or even the predictions.
+Models folder contains the code for both Without Noise and With Noise. In case of With Noise, you need to change the level of the noise (1 or 2) while adding it to the original dataset. And same applies for the names while saving model weights or even the predictions. Predictions folder contains the model predictions which are further used when we perform the hypothesist test by McNemar's test.
 
 # Results
 ![](Images/Error.JPG)
