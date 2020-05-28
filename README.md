@@ -38,8 +38,8 @@ Models folder contains the code for both Without Noise and With Noise. In case o
 # Hypothesis Test
 McNemars test is used for statistical test. Matrices to the right indicate significant results of pairwise McNemar tests. Comparisons are across models and within image sets. Black boxes indicate significant differences at p < 0.05 when controlling the expected false discovery rate at 0.05.
 
-### H0: No difference detween the models
-### H1: Significant difference between the models
+##### H0: No difference detween the models
+##### H1: Significant difference between the models
 
-![](Images/Hypotheis Test.JPG
+![](Images/Hypotheis%20Test.JPG)
 
