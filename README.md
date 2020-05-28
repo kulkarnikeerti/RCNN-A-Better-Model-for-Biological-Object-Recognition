@@ -16,8 +16,11 @@ Cifar10 Dataset with different variations
 * Without Noise
 * With Noise level 1
 * With Noise level 2
+![](Images/Dataset.JPG)
 
 # Using Code
 Models folder contains the code for both Without Noise and With Noise. In case of With Noise, you need to change the level of the noise (1 or 2) while adding it to the original dataset. And same applies for the names while saving model weights or even the predictions.
 
 # Results
+Classification Increases as the noise level increases 
+![](Images/Error.JPG)
